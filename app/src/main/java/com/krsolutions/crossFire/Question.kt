@@ -170,6 +170,16 @@ object QuestionsBank {
             "Marrakesh is the capital of Morocco",
             false,
             "False - It's Rabat."
+        ),
+        Question(
+            "Willow is the name of an animal",
+            false,
+            "False - It is a flower."
+        ),
+        Question(
+            "Coffee helps you lose weight",
+            false,
+            "The stimulating effects of caffeine can slightly — very slightly — increase your metabolism, but not enough to make a dent in your diet, especially in terms of long-term weight loss"
         )
         Question(
             "The entire world's population could fit inside Los Angeles.",
